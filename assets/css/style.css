@@ -21,6 +21,14 @@ body {
     color: #ffffff;
 }
 
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header h1 .seo {
+    color: #d9dcd6;
+}
 
 .header div {
     padding-top: 15px;
@@ -139,6 +147,9 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+
+
+
 
 
 .footer {
